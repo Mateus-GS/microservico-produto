@@ -5,10 +5,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<groupId>br.unibh.sdm</groupId>
-	<artifactId>backend-cripto</artifactId>
+	<groupId>br.com.backend</groupId>
+	<artifactId>backend-produtos</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>Backend Criptomoedas</name>
+	<name>Backend Produtos</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
